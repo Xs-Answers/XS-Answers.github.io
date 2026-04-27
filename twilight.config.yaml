@@ -122,7 +122,7 @@ site:
     # 加载页配置
     loadingOverlay:
         # 是否启用加载页
-        enable: true
+        enable: flase
         # 是否等待所有资源 (如图片、样式表) 加载完成
         waitForAllResources: true
         # 加载标题配置
