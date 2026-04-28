@@ -12,11 +12,18 @@ category:
 draft: false
 ---
 
+:::note
+模板教学说明：这是一篇 Twilight 自带的进阶示例文章，主要用于演示主题配置、Markdown 扩展和卡片组件。实际建站时，你可以把这里的示例替换成自己的教程，或者在不需要时删除。
+:::
 
 This guide covers advanced customization options and features available in the Twilight template, from global configurations to specialized Markdown extensions.
 
+中文翻译：本指南介绍 Twilight 模板的进阶能力，包括全局配置项、可视化效果、组件调整，以及 Markdown 扩展能力。
+
 
 ## Global Configuration
+
+中文翻译：全局配置主要通过 `twilight.config.yaml` 完成，涉及站点信息、主题样式、背景和侧边栏组件等。
 
 The `twilight.config.yaml` file is the heart of your blog's configuration. Here are some advanced settings you can tweak:
 
@@ -44,6 +51,8 @@ The `twilight.config.yaml` file is the heart of your blog's configuration. Here 
 
 
 ## Markdown Extensions
+
+中文翻译：这一节演示 Markdown 扩展功能，例如 GitHub 卡片、音乐卡片、提示块（admonitions）和 spoiler 语法。
 
 ### GitHub Repository Cards
 
@@ -142,3 +151,5 @@ Negative potential consequences of an action.
 ---
 
 For more details, check the [Documentation](https://docs.twilight.spr-aachen.com).
+
+中文翻译：更多完整用法请查看官方文档 [Documentation](https://docs.twilight.spr-aachen.com)。
