@@ -3,8 +3,8 @@ backend:
     name: github
     repo: Xs-Answers/Xs-Answers.github.io
     branch: main # 请替换为您的分支名称
-    site_domain: xs-answers-github-io.pages.dev
-    base_url: https://xs-answers-github-io.pages.dev
+    site_domain: https://blog.answers.xin/
+    base_url: https://blog.answers.xin
     auth_endpoint: oauth # OAuth 路由由集成提供
 
 
